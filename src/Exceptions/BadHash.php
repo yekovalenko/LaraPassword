@@ -18,5 +18,5 @@ class BadHash extends Exception
      *
      * @var string
      */
-    protected $message = 'Lara Password hash is not set or is incorrect.';
+    protected $message = 'Lara Password hash is not set or is incorrect';
 }
