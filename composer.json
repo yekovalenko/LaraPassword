@@ -1,5 +1,5 @@
 {
-    "name": "Yekovalenko/LaraPassword",
+    "name": "yekovalenko/larapassword",
     "description": "Password manager for Laravel",
     "keywords": ["laravel", "password", "manager"],
     "type": "library",
