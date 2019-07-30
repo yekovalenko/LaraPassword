@@ -1,0 +1,27 @@
+{
+    "name": "Yekovalenko/LaraPassword",
+    "description": "Password manager for Laravel",
+    "keywords": ["laravel", "password", "manager"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yevhenii Kovalenko",
+            "email": "hi@yeko.me"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Yekovalenko\\LaraPassword\\LaraPasswordServiceProvider"
+            ]
+        }
+    },
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Yekovalenko\\LaraPassword\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
